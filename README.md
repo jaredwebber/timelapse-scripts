@@ -1,4 +1,3 @@
-# timelapse_scripts
+# timelapse-scripts
 
-Scripts for running a Canon T5 via raspberry pi in a timelapse setup.  
-Python scripts read and log temperature via a thermometer inside the case, as well as the cpu temperature.
+Simple scripts used to control a DSLR via Raspberry Pi in a timelapse setup.  
