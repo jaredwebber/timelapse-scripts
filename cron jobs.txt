@@ -1,0 +1,5 @@
+#*/5 * * * * /home/pi/Desktop/ambient_fan_control.py
+#*/5 * * * * /home/pi/Desktop/log_cpu_temp.py
+#*/5 * * * * /home/pi/Desktop/log_ambient_temp.py
+#*/5 * * * * sh /home/pi/Desktop/take_photo.sh
+#0 1 * * * sudo reboot now
